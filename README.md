@@ -112,9 +112,11 @@ Through this project, I gained practical experience in:
 
 ## Project Files
 
-- ![Excel dashboard file][Project-2.xlsx](https://github.com/user-attachments/files/25893112/Project-2.xlsx)
+- Final Output
+- [Project-2.xlsx](https://github.com/user-attachments/files/25893112/Project-2.xlsx)
 
-- ![Raw dataset used for analysis][customer_support_dashboard_project.xlsx](https://github.com/user-attachments/files/25893109/customer_support_dashboard_project.xlsx)
+-Raw Data
+- [customer_support_dashboard_project.xlsx](https://github.com/user-attachments/files/25893109/customer_support_dashboard_project.xlsx)
 
 
 ---
