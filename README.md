@@ -104,7 +104,6 @@ Through this project, I gained practical experience in:
 ## Future Improvements
 
 - Add **Power BI integration** for advanced analytics
-- Implement **automated data refresh**
 - Include **trend forecasting for call volume**
 - Add **agent performance KPIs**
 
