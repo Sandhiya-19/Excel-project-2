@@ -96,7 +96,7 @@ Through this project, I gained practical experience in:
 
 ## Dashboard Preview
 
-![Customer Support Dashboard]<img width="1919" height="960" alt="Project-2" src="https://github.com/user-attachments/assets/cd4ffd19-ee93-4804-acc2-06d0c6534f9b" />
+<img width="1919" height="960" alt="Project-2" src="https://github.com/user-attachments/assets/cd4ffd19-ee93-4804-acc2-06d0c6534f9b" />
 
 
 ---
@@ -112,10 +112,9 @@ Through this project, I gained practical experience in:
 
 ## Project Files
 
-- Final Output
+Final Output
 - [Project-2.xlsx](https://github.com/user-attachments/files/25893112/Project-2.xlsx)
-
--Raw Data
+Raw Data
 - [customer_support_dashboard_project.xlsx](https://github.com/user-attachments/files/25893109/customer_support_dashboard_project.xlsx)
 
 
